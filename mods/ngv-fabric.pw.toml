@@ -1,0 +1,13 @@
+name = "Nether Gold Veins [FABRIC]"
+filename = "ngv-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b79b746baed24a97fe2291f551058f07846c30df"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3694953
+project-id = 590998
