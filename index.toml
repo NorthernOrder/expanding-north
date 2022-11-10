@@ -1,6 +1,178 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/byg/README.txt"
+hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
+
+[[files]]
+file = "config/byg/backups/last_working_configs_backup.zip"
+hash = "33505b0885d646e2cd49134025a2e731ff09eae80f6bc701c6e4c51d3f5d6512"
+
+[[files]]
+file = "config/byg/biomepedia.json5"
+hash = "b866ba2a574783ac1cbccd9f97a15438c436ed66d6bc58998283d5db2220738a"
+
+[[files]]
+file = "config/byg/client/biomepedia_inventory.json5"
+hash = "a5e9cbd9ce3331dfad0c79129d7a38fbc724806549da3087b866f784966f4c33"
+
+[[files]]
+file = "config/byg/config_versions.json5"
+hash = "b7145901f650508f5c188bfb2069779beb32a46fc30679a33e9fb95ec686050f"
+
+[[files]]
+file = "config/byg/end-biomes.json5"
+hash = "d3987d44a13968eac7c7b3e4985bd2e47c9178d7929938d02487d19b6704cda8"
+
+[[files]]
+file = "config/byg/growing-patterns.json5"
+hash = "62a5e8afc54dca80b41187bfb942b236e668e4f77ce1b250f29350559c47ef9a"
+
+[[files]]
+file = "config/byg/nether-biomes.json5"
+hash = "ed7f852fd0de067b08d742d42b705a2d8cd8bb379293c03d438984164a309a3f"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5"
+hash = "42c1a37db078ac421a9ed5539fe4070e7a3a0ebe5d8ec5544cc87aa2756cb3a4"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_vanilla.json5"
+hash = "6dd230fc4c56de80747e8e9c55b819c30a90c04b27694111f0318f6988ca1d33"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_1.json5"
+hash = "498379b746679a6a8d3d504e39137c46a0ab4fc7e4e7a348e11ab7145a89d94b"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_2.json5"
+hash = "2ba82a56ac3b6015fceb920c7928211fa217a306525cd8e3d50c43f34a3495d6"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_3.json5"
+hash = "9788dfd410e0574b18b30357a0ef070a6d298ca920a7014b332dceb90c11411a"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_vanilla.json5"
+hash = "f78eacc414033fd7f75d1515835e6952225b9eeb8527db35927f6aba19be2db6"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/middle_biomes_variant/middle_biomes_variant_vanilla.json5"
+hash = "2c98b46f5859bfad90f6381cba3072bc272ea49c59036e85d4bc19c4d78e3bcb"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/oceans/oceans_1.json5"
+hash = "15eefb2eb101d0ae7e317c16607787a42da09c083cab0ca18449afddad7f69f0"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/oceans/oceans_vanilla.json5"
+hash = "e759bdca66716ef1c839a0da99b2dbc30983ac49411773f67df86efc2967575c"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_1.json5"
+hash = "27c4f1ac223676791f862d972f7383be1bbb05dd303e92c910f99ed341d32a1f"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_vanilla.json5"
+hash = "1d67c6d3f53e21ea538ff516c56301e334ca509b461e4d0a5cb914e48388e1e9"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/peak_biomes_variant/peak_biomes_variant_vanilla.json5"
+hash = "5eb3f8ee44e14ad8ad7952bf38af861585022222c0458b5241d163adeb1aca2c"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_1.json5"
+hash = "ca2ab4127f58816c0ab0ad1dbc2a87bbefe3620b9d8adfbf8038f11c271c49cc"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_2.json5"
+hash = "81e7e5301a05ac24b4099eb406a5fe1c0a757e785329d073a7517b3f209fd7d4"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_3.json5"
+hash = "81e7e5301a05ac24b4099eb406a5fe1c0a757e785329d073a7517b3f209fd7d4"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_vanilla.json5"
+hash = "01e9ef99c0ce3d25dbd4f70244add31a7538bd844878de320cd903c74eee36ef"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/plateau_biomes_variant/plateau_biomes_variant_vanilla.json5"
+hash = "efcd0e3145f0b2a9853609e0a89161da94f68bb48104cd105dd61e8eda313c79"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/shattered_biomes/shattered_biomes_vanilla.json5"
+hash = "1af3e3dfc20312ec48227dec225ad4ef2922e5b5fb3e402be3e56ffae73514dd"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_1.json5"
+hash = "0ba37f84e834fc492cbd1e95e8a4876fa9bd75b9a6a2777ca3402b60a031e482"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_vanilla.json5"
+hash = "49119e306636691780508164929efd5846fb03c9f2c8be13e3b7ee7406563d32"
+
+[[files]]
+file = "config/byg/overworld/biome_selectors/slope_biomes_variant/slope_biomes_variant_vanilla.json5"
+hash = "115c27d732c71b6fcc7daa358607f0ae1f27ac447485f0523e385cd2f085a584"
+
+[[files]]
+file = "config/byg/overworld/byg-overworld-biomes.json5"
+hash = "36979e8631491446dbc5de230cb3aadf7c6440b7a20fcbae045497ba4f3932e5"
+
+[[files]]
+file = "config/byg/overworld/regions/rare_region_1.json5"
+hash = "851179fafbeedbc39bfc88e45619911b26e8414e81310caa0880b8c70e5ef0d6"
+
+[[files]]
+file = "config/byg/overworld/regions/region_1.json5"
+hash = "714f1a362f60ac968f32ba5c593a6831235f26d3c7977ed9b048adafccf0239f"
+
+[[files]]
+file = "config/byg/overworld/regions/region_2.json5"
+hash = "e9d107cc77c0f771458d80c4c852d19d7fbaa4eeb25cab58e866910e04843c00"
+
+[[files]]
+file = "config/byg/overworld/regions/region_3.json5"
+hash = "9ee80b14ed7e84ced12108e7abcf5f4979b5e98d7faffe37c95385920eedb5b1"
+
+[[files]]
+file = "config/byg/settings.json5"
+hash = "c60d4e23d3d8a9c84b97b54a35d02fd822ee7b2d7ce10f45b9daa6185013f4cb"
+
+[[files]]
+file = "config/byg/surface_rules/end_surface_rules.json5"
+hash = "3515ed2d93cf2664da9548beb6871e9f059ff2fcc2d42c52e7aa84307dafc2b2"
+
+[[files]]
+file = "config/byg/surface_rules/nether_surface_rules.json5"
+hash = "1c2e8e069f5b766411dabbe843d0fc905ad94785eaa111a56806e8f96c692461"
+
+[[files]]
+file = "config/byg/surface_rules/overworld_surface_rules.json5"
+hash = "c23e1c0f743db65aa16926a5d7a014a3b794b9936637cc09e4aa732256c04448"
+
+[[files]]
+file = "config/byg/trades.json5"
+hash = "d451e84c35fd431af4b8d68e18017bad30844aaefb603a2cbdbda7530e2bb635"
+
+[[files]]
+file = "config/charm.toml"
+hash = "62382d7d951c720750d35f3f42fe995e51434b3eb83c54b1f1c61daa50b90af2"
+
+[[files]]
+file = "config/emi.css"
+hash = "b81229400cd94b14a90d431ae5b4a53f1d07dc04e02059d0c86f8104b7ddea3a"
+
+[[files]]
+file = "config/inspecio.json"
+hash = "b08cf7266ccdc0971624c9f3a6f573f97c9c23e79007478b0f719a199da4802c"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "462bf2f624a40bb2d52e94abbc25790540722f328d8dce80f85752dda49a6d63"
+
+[[files]]
 file = "mods/additional-additions.pw.toml"
 hash = "ffc9d369d6da88e6ccb44555e60cc26b97f9a98652533b812653b6fd229de20e"
 metafile = true
