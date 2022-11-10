@@ -434,11 +434,6 @@ hash = "b4bdafcc4d904405c1b9091784bcf799bcafdce542fbd7d830828263d64c4f85"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "13703de3a3519b5eefe367a2f94f383aefe3e963a3288c4cfdb2eea54e3d07f8"
-metafile = true
-
-[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "5b1f685ba0f63976418655d6e90e473e34f37fb847a940c6ae06752a68d5863a"
 metafile = true
@@ -476,11 +471,6 @@ metafile = true
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
 hash = "fc8af69fbd89772aad0bdd4d0d6a9254bc21dac5a5284a9b4125ff22acfee61a"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "ea5d6cd41e0364998a8f868e1dcb32dd91956e1a4b8e1f53609bbab0b89a255e"
 metafile = true
 
 [[files]]
