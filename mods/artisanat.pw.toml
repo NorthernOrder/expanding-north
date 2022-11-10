@@ -1,0 +1,13 @@
+name = "Artisanat"
+filename = "artisanat-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eff963b6fb1795f2a3da263b2c893de2e21af6c8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3575056
+project-id = 399443

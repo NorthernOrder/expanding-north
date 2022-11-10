@@ -1,0 +1,13 @@
+name = "Immersive Weathering [FABRIC]"
+filename = "IW_FABRIC_3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7e3277e6f05f54aae1f5d8f5dac1bc870914cb66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4018226
+project-id = 571035

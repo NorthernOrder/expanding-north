@@ -1,0 +1,13 @@
+name = "Friends&Foes (Quilt)"
+filename = "friendsandfoes-quilt-mc1.18.2-1.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "969bcc0630db04f86d4e9aa2dd933a9c87ab742f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3842724
+project-id = 628248

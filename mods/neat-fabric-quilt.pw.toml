@@ -1,0 +1,13 @@
+name = "Neat (Fabric/Quilt)"
+filename = "Neat-1.8-31-FABRIC.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a88e002f5ea43a7d7a00e7b28cf0705d69b3d12"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3859678
+project-id = 639987

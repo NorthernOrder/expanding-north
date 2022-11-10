@@ -1,0 +1,13 @@
+name = "Excavated Variants"
+filename = "excavated_variants-quilt-1.18.2-0.6.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53304b506e44d3b6536728ce6b33c4979d287384"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3867012
+project-id = 577411

@@ -1,0 +1,13 @@
+name = "Dynamic Asset Generator"
+filename = "dynamic_asset_generator-quilt-1.18.2-0.6.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/83pFEQVb/versions/0.6.2-quilt/dynamic_asset_generator-quilt-1.18.2-0.6.2.jar"
+hash-format = "sha1"
+hash = "40ead6377005ae2863c2f4f3fed9346cbff30a66"
+
+[update]
+[update.modrinth]
+mod-id = "83pFEQVb"
+version = "uUqsEDsh"
