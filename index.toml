@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "f92bf438d13ddf4ccb9d885d13824308ba0101776427e5ccc235083c297e7f92"
+hash = "5418f0f3fe7e2113b0082199e673b770c9e24d0f701f4549e88362768fbbd233"
 metafile = true
 
 [[files]]
@@ -434,8 +434,13 @@ hash = "b4bdafcc4d904405c1b9091784bcf799bcafdce542fbd7d830828263d64c4f85"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "290d34238e9ae81bf25caffbd238d043a2ecc82be2b6b05ff794ca32b82a2287"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "5b1f685ba0f63976418655d6e90e473e34f37fb847a940c6ae06752a68d5863a"
+hash = "391b59e80c639f52b9c71abff1a44cbaa9ef49b16d3976ca33736d787e8c7a6a"
 metafile = true
 
 [[files]]
@@ -474,18 +479,23 @@ hash = "fc8af69fbd89772aad0bdd4d0d6a9254bc21dac5a5284a9b4125ff22acfee61a"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "ea5d6cd41e0364998a8f868e1dcb32dd91956e1a4b8e1f53609bbab0b89a255e"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "17b0e44b0b415420e5b99252e1a5f2c7e951a16eac2ba12ae63e99d98012cca0"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c5fef2f9b5aec665ad9c09712c0c9d88157ba2cf48ac19fd0eef30b00c97dd5b"
+hash = "ab0d53b9017c2b1a854671d3f672e6bc2d869e98b24b697bb7312eb79f1299b9"
 metafile = true
 
 [[files]]
 file = "mods/megane.pw.toml"
-hash = "d1c0d9816cc0fcba1da1fec95260dd8324c6f149bd9703d04c5e744f9cbbf900"
+hash = "8e09d249e07d7246e0decaf05c74f416283dc82222c497139d7ae57177d641a5"
 metafile = true
 
 [[files]]
@@ -555,12 +565,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "2b215d3aa8eb6bfc49c2107ccbd187f74af7f9b23b67d5eaee7f49e5812dd61c"
+hash = "c4284757a923025f3551be2d8efecc8c8e7eb1f52af303a50d00fc33f7ffe286"
 metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "b894184d40b1c19c71d204f67b2bfaed889c476fb54e62ba4d2c6215b9dd8d88"
+hash = "9a64fbc1212a691e355064e40a2298a0bda0c7d8e706506e9401b44a426f1da2"
 metafile = true
 
 [[files]]
@@ -580,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a70fdb409a70e47eaea3a6082568d178f91c19b59c5aab7c0c59d6ce2120fdc0"
+hash = "39d08d2f2531894e60ee1a08c4fbf190b08c49ae69c724d84fddb43744a40482"
 metafile = true
 
 [[files]]
@@ -625,12 +635,12 @@ metafile = true
 
 [[files]]
 file = "mods/wall-jump-unofficial-fabric.pw.toml"
-hash = "218de86aaf4d7297a8f91ba286186abbe92a121bf73a973abd3a0408c4591f38"
+hash = "4cfd4f3700735e2b93bb98d88ba6e1e923219bd1ddeb32b8654a51c39fd3975f"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "b94a9daee8b714828d1aeded6133e28067d2d8569ac51613fcc6ea1a8845cd0a"
+hash = "102a33a6f089ebb2dd6ff6ea5d50d449a1a86b87eb238bcce3cc67c88611d180"
 metafile = true
 
 [[files]]
