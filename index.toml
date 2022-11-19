@@ -505,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "ea5d6cd41e0364998a8f868e1dcb32dd91956e1a4b8e1f53609bbab0b89a255e"
+hash = "9bdb5e79b925a2675486549a43a35bbe49516ee7c6ae4646d400fee9f0923bf7"
 metafile = true
 
 [[files]]
@@ -659,6 +659,16 @@ hash = "61b493d8ccc0f4459ce351347fd76f00c5f092de18248fb7287f6f9c4674eea4"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-excavators.pw.toml"
+hash = "40c28cda1233eed458e280e92fbbe73b8f8e5e860785ca5f2f644376e84a6cc6"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-hammers.pw.toml"
+hash = "a2a39fe993ad407531c4d5458bd6e739053f97ec4b57e8dece5452ee35798a56"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "8524969762e536cfeb572fa1a6019a43537b9085f9db22a72aedaa718ebe0c63"
 metafile = true
@@ -676,6 +686,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "102a33a6f089ebb2dd6ff6ea5d50d449a1a86b87eb238bcce3cc67c88611d180"
+metafile = true
+
+[[files]]
+file = "mods/wunderreich.pw.toml"
+hash = "932828930b3a10f1c87449e11951ed9eceacf12dacd07c4cf3e4dd3dc91f883a"
 metafile = true
 
 [[files]]
