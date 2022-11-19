@@ -279,6 +279,11 @@ hash = "d08bf8dc9e7f91f9dd522c2ee3929c43f8005e922761dc4a8b88680e098a4abc"
 metafile = true
 
 [[files]]
+file = "mods/cloth-api.pw.toml"
+hash = "66e5a832549ae569bb7ccffecbc888aa0b56abdd06bc98f7fd027069738d04d0"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "8f07b2408013a7217caacec87c977635fdf94eb21a10bf281f2bba67ff7c4dc1"
 metafile = true
@@ -301,6 +306,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "811ae5db88e94e44c8d83b6436c5d03ae020916389710dcc1f620c6793a1ff78"
+metafile = true
+
+[[files]]
+file = "mods/createplus.pw.toml"
+hash = "8a4802536ab925162bb3e343137d56d0958453f559a38515ff686f49446e81db"
 metafile = true
 
 [[files]]
@@ -349,6 +359,11 @@ hash = "8b433ad8fc2526a85402bf12c087f3bfaf48974bf376242e193ace95321df021"
 metafile = true
 
 [[files]]
+file = "mods/ellemes-container-library.pw.toml"
+hash = "96f8d9f750503d36e65a4a4589510dd5e576659b34de69807b978395763e5fea"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "5418f0f3fe7e2113b0082199e673b770c9e24d0f701f4549e88362768fbbd233"
 metafile = true
@@ -366,6 +381,11 @@ metafile = true
 [[files]]
 file = "mods/excavated-variants.pw.toml"
 hash = "0a74c2bf3f4dcd98df94c3db7427d86b3423153a3c59c1c6c50d61208c4b3998"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage.pw.toml"
+hash = "9a932c5d723e22e68d12898af7b6ed670974fcc63ccb57a3a457557bea8c6ddd"
 metafile = true
 
 [[files]]
@@ -421,6 +441,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "b823831af9d57c2e6429bfd0cb51026658c507aa267dfdcaccccbe2d9c3f4a3a"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "1d0666c8b8bee80277b90ad9c10f0a743657894830bd2f1a5983c4b0013a8682"
 metafile = true
 
 [[files]]
@@ -624,6 +649,11 @@ hash = "69214e78788c8db0b1b2e9fa48deff5fdb090dd590ced6898ac5b4286aa370b2"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
+metafile = true
+
+[[files]]
 file = "mods/twigs.pw.toml"
 hash = "61b493d8ccc0f4459ce351347fd76f00c5f092de18248fb7287f6f9c4674eea4"
 metafile = true
@@ -636,6 +666,11 @@ metafile = true
 [[files]]
 file = "mods/wall-jump-unofficial-fabric.pw.toml"
 hash = "4cfd4f3700735e2b93bb98d88ba6e1e923219bd1ddeb32b8654a51c39fd3975f"
+metafile = true
+
+[[files]]
+file = "mods/where-is-it.pw.toml"
+hash = "bfc98df13954fc11f4ac580e0faf592f09df310c25800d59cc61e62ffe1d3c3a"
 metafile = true
 
 [[files]]
