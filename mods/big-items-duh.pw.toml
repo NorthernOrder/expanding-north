@@ -1,0 +1,13 @@
+name = "Big Items, duh!"
+filename = "big-items-duh-1.1.2+mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ad3d5274e7e32eeda558024e786ce92e028072a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3718002
+project-id = 444972

@@ -219,6 +219,11 @@ hash = "be2eb8aaf41cc18a31ccd3401c07547f189ce72ce6a30484b6ac16142c7b3653"
 metafile = true
 
 [[files]]
+file = "mods/big-items-duh.pw.toml"
+hash = "4c09cbef184ad356398b7858a062becce81fb7f29ddb8f584895e1f10a5205b1"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "809e3ed5471aeed8d6948deff168d473b08d96a39bfc89b3ab3c210fc7f5d25a"
 metafile = true
