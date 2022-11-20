@@ -169,8 +169,25 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "462bf2f624a40bb2d52e94abbc25790540722f328d8dce80f85752dda49a6d63"
 
 [[files]]
+file = "config/roughlyenoughitems/changelog.txt"
+hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "b7ec20587272e798ca842fe609d1028be8a8e43d4d596e5a237d8eb2404f17d4"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "5b97ac90c0da4b2127249b52eae579faa3d9f0643ac12f5b1d6756f99964def3"
+
+[[files]]
 file = "mods/additional-additions.pw.toml"
 hash = "ffc9d369d6da88e6ccb44555e60cc26b97f9a98652533b812653b6fd229de20e"
+metafile = true
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "a1b123fa4c9cc0c4cf25c6ef33694cf6c94f9dd88388188f34feab9b6d367e2a"
 metafile = true
 
 [[files]]
@@ -206,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "1a502fb1c76f562ee994a7189f57069109dbcafd381e757f1bb447582bf76541"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "b807b54b5ddf544e895877d4c40e6f9a23536279f6ac8133f90098f28733d429"
 metafile = true
 
 [[files]]
@@ -284,6 +306,11 @@ hash = "d08bf8dc9e7f91f9dd522c2ee3929c43f8005e922761dc4a8b88680e098a4abc"
 metafile = true
 
 [[files]]
+file = "mods/client-tweaks-fabric.pw.toml"
+hash = "0172230f24183bf19e7ebe0da3abad55a4657e95c8fa58fa3142aca82df44d69"
+metafile = true
+
+[[files]]
 file = "mods/cloth-api.pw.toml"
 hash = "66e5a832549ae569bb7ccffecbc888aa0b56abdd06bc98f7fd027069738d04d0"
 metafile = true
@@ -306,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "7e08a945982c433b66875ef6dd4fb0a4d43b5c9df0198612bfcc59804c6f4046"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks-fabric.pw.toml"
+hash = "d29ea37503c0416871380e3e056b035a793e50ea5b052a7158ca8a9099fa95d1"
 metafile = true
 
 [[files]]
@@ -464,6 +496,11 @@ hash = "b4bdafcc4d904405c1b9091784bcf799bcafdce542fbd7d830828263d64c4f85"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials-fabric.pw.toml"
+hash = "d06a81a66c49459014a1b31480932be671a6d83b8b712e42a0913555cb3a954d"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "290d34238e9ae81bf25caffbd238d043a2ecc82be2b6b05ff794ca32b82a2287"
 metafile = true
@@ -554,6 +591,11 @@ hash = "f5b47f97bb295961c6b2db6bca541348a28fe5ec042a5b343832c59682ddaec2"
 metafile = true
 
 [[files]]
+file = "mods/more-chat-history.pw.toml"
+hash = "7e064b9aa45508aee054ab21617ee081895ff10ba3547c4dcc061c1c02242716"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "d448b3da16213a9f807b86aad22bdf9d81eb331dc2c01a95834740a6fb7f6865"
 metafile = true
@@ -611,6 +653,11 @@ metafile = true
 [[files]]
 file = "mods/right-click-harvest.pw.toml"
 hash = "1b05810e30a220182a020210f3e79f70fcbc6590624d782ff93c72f6e2774d02"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "08fa3c14665f40d2aba40a6a2fbda7e8cf7d9e7ed6ea0140853cdd1a6cafeb0a"
 metafile = true
 
 [[files]]
@@ -706,6 +753,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "9cbd917f5256eef9355bfe5c4bf6f59422c2d565a95f50c25961962f468ec8a2"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "003dee7fef878abc298c3c6589b7b21e8922def090c9cf8259ae8c6aacc0946f"
 metafile = true
 
 [[files]]
