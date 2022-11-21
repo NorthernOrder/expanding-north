@@ -816,11 +816,6 @@ hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
 metafile = true
 
 [[files]]
-file = "mods/twigs.pw.toml"
-hash = "61b493d8ccc0f4459ce351347fd76f00c5f092de18248fb7287f6f9c4674eea4"
-metafile = true
-
-[[files]]
 file = "mods/vanilla-excavators.pw.toml"
 hash = "40c28cda1233eed458e280e92fbbe73b8f8e5e860785ca5f2f644376e84a6cc6"
 metafile = true
