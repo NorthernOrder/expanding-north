@@ -49,6 +49,7 @@ An expanding and changing modpack for Quilt on 1.18.2
 - Industrial Revolution
 - Tech Reborn
 - Wireless Networks
+- Light Emitting Diode
 
 ### Storage
 
@@ -67,6 +68,8 @@ An expanding and changing modpack for Quilt on 1.18.2
 - Haema
 - Magic Fungi
 - Arcanus
+- Botania
+- Hex Casting
 
 ### Other
 
