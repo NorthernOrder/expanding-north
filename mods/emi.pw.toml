@@ -1,13 +1,13 @@
 name = "EMI (Item and Recipe Viewer)"
-filename = "emi-0.4.2+1.18.2.jar"
+filename = "emi-0.4.3+1.18.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4cbc77cedfe4d1637db34421222c014c23113c05"
+hash = "7369044f7d9356fe2572532759e6d6a596995cdf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4077427
+file-id = 4105174
 project-id = 580555

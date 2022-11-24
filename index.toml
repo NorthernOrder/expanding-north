@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "811ae5db88e94e44c8d83b6436c5d03ae020916389710dcc1f620c6793a1ff78"
+hash = "5b89f94d1af3bd2b81954b8963da38db923d510c74fba8ddc8d89a95c11455c7"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5418f0f3fe7e2113b0082199e673b770c9e24d0f701f4549e88362768fbbd233"
+hash = "0fcbbe67a00ea4ff062cc75b5717e0193e41df6fd4f172ecbce958288aa0dce4"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "c3d2fc3e44044b427b41b87d2fb5622c744e5872a054853b9b605bf019efa924"
+hash = "96ea3f66a89da719426761c24f737b04f5404ff9f97cb33c45c86f3bb068e1e2"
 metafile = true
 
 [[files]]
@@ -813,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "61b493d8ccc0f4459ce351347fd76f00c5f092de18248fb7287f6f9c4674eea4"
 metafile = true
 
 [[files]]
