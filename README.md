@@ -2,6 +2,26 @@
 
 An expanding and changing modpack for Quilt on 1.18.2
 
+## Versions
+
+- TBD - 1.5.0 - Tech Update
+- TBD - 1.4.0 - Exploration, Magic & Utility Update
+- 24.11.22 - 1.3.1 - Mod Updates
+- 21.11.22 - 1.3.0-qf1 - Quick Mitigation
+- 21.11.22 - 1.3.0 - Farming, Food & Construction Update
+- 20.11.22 - 1.2.3 - More Tweaks
+- 19.11.22 - 1.2.2 - Item preview
+- 19.11.22 - 1.2.1 - 3x3 tools
+- 19.11.22 - 1.2.0 - Inventory & Storage Additions
+- 19.11.22 - 1.1.1 - Mod Updates
+- 10.11.22 - 1.1.0-qf1 - Quick Mitigation
+- 10.11.22 - 1.1.0 - Structure Updates
+- 10.11.22 - 1.0.0-qf1 - Quick Fix
+- 10.11.22 - 1.0.0 - Initial Release
+- 09.11.22 - 0.3.0 - Storage Update
+- 08.11.22 - 0.2.0 - Map, Info & Construction Update
+- 07.11.22 - 0.1.0 - Initial Beta
+
 ## Future Content Considerations
 
 ### Dimensions
