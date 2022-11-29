@@ -85,16 +85,12 @@ gravestone?
 - Alloy Forgery
 - CC Restitched
 - Create Crafts & Additions
-- Kibe Utilities
 - Modern Industrialization
-- Red Bits
-- Redstone Bits
 - Deep Mob Learning
 - Deep Mob Learning Simulacrum
 - Industrial Revolution
 - Tech Reborn
 - Wireless Networks
-- Light Emitting Diode
 
 ### Storage
 
@@ -111,10 +107,7 @@ gravestone?
 - Archon
 - Bewitchment
 - Haema
-- Magic Fungi
 - Arcanus
-- Botania
-- Hex Casting
 
 ### Other
 

@@ -252,11 +252,6 @@ hash = "b807b54b5ddf544e895877d4c40e6f9a23536279f6ac8133f90098f28733d429"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "fe0fb406a9ba81b2e501d41db4606ed512687045e5c515481edc12b00119940e"
 metafile = true
@@ -264,11 +259,6 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "be2eb8aaf41cc18a31ccd3401c07547f189ce72ce6a30484b6ac16142c7b3653"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "4282b7fa7650440b13dc25a7a3f9433b69f4e2701a95315629a8b1e98e304891"
 metafile = true
 
 [[files]]
@@ -494,11 +484,6 @@ metafile = true
 [[files]]
 file = "mods/end-goblin-traders-fabric.pw.toml"
 hash = "57e12d65ef6078aa9e016e895a6ab98d189e18075ec3466a95d4a30c6a1999b4"
-metafile = true
-
-[[files]]
-file = "mods/enderscape.pw.toml"
-hash = "21c89cfc789fe0171ea2911506f4ba2584a1f7e1fdfab36434a86c8a2e05b431"
 metafile = true
 
 [[files]]
@@ -852,8 +837,8 @@ hash = "b7b8279135938caa16a94d69ea913afceb435a2ad33846f0a3652e454882a2f5"
 metafile = true
 
 [[files]]
-file = "mods/qsl-biomefix.pw.toml"
-hash = "30d0dbe64c6976bf411e13f699a74a9f5b2080ba7ba62e5f6f0936cfca59c676"
+file = "mods/qsl.pw.toml"
+hash = "4ef251bf925c957e46fa3b223933425df85611d4ddf0e7a04949b38783800a65"
 metafile = true
 
 [[files]]
