@@ -742,11 +742,6 @@ hash = "f5b47f97bb295961c6b2db6bca541348a28fe5ec042a5b343832c59682ddaec2"
 metafile = true
 
 [[files]]
-file = "mods/momentum-fabric.pw.toml"
-hash = "ff3e5a85996251a76417458643e0940dc381b66ba559afe2a878ff3db0600854"
-metafile = true
-
-[[files]]
 file = "mods/more-chat-history.pw.toml"
 hash = "7e064b9aa45508aee054ab21617ee081895ff10ba3547c4dcc061c1c02242716"
 metafile = true
