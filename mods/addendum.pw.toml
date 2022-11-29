@@ -1,0 +1,13 @@
+name = "Addendum"
+filename = "addendum-1.0.0+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NTKl3Vnr/versions/1.0.0/addendum-1.0.0%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "18a7b406921209924ab108fe3aeae930834c2559"
+
+[update]
+[update.modrinth]
+mod-id = "NTKl3Vnr"
+version = "NTWn2clC"

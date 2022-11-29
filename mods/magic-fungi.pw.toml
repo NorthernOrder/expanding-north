@@ -1,0 +1,13 @@
+name = "Magic Fungi"
+filename = "magicfungi-0.8.0-BETA+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8b07852061a59e0a2b226c50a85e31c9e0b21b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3902706
+project-id = 506412

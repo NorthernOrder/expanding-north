@@ -22,6 +22,31 @@ An expanding and changing modpack for Quilt on 1.18.2
 - 08.11.22 - 0.2.0 - Map, Info & Construction Update
 - 07.11.22 - 0.1.0 - Initial Beta
 
+## Future Update Contents
+
+### 1.4.0 - Exploration, Magic & Utility Update
+
+fastload
+
+kibe
+red bits
+light emitting diode
+redstone bits
+
+treechop
+cosmetic armor
+transparent cosmetics
+chest cavity
+
+lootr
+additional structures
+the graveyard
+mo structures
+
+gravestone?
+
+### 1.5.0 - Tech Update
+
 ## Future Content Considerations
 
 ### Dimensions

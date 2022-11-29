@@ -1,0 +1,13 @@
+name = "Purpeille"
+filename = "purpeille-2.3.3+fabric-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d8ee1518a901ea301ec7d1f913cc5fad8699c9af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3915790
+project-id = 609887

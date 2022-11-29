@@ -1,13 +1,13 @@
 name = "Packages"
-filename = "packages-fabric-1.18.2-3.jar"
+filename = "packages-fabric-1.18.2-3.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "26f7f57afe552b927b5425eaf170444f30589ce3"
+hash = "d04798ac8ac9331b5938035072328cfaccd0d048"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4026184
+file-id = 4121404
 project-id = 383733
