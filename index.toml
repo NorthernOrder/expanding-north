@@ -482,11 +482,6 @@ hash = "608b3b5f123f12035f6f818c94ade692d42c441664e4b4791a0b961f6971c28a"
 metafile = true
 
 [[files]]
-file = "mods/end-goblin-traders-fabric.pw.toml"
-hash = "57e12d65ef6078aa9e016e895a6ab98d189e18075ec3466a95d4a30c6a1999b4"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
@@ -559,11 +554,6 @@ metafile = true
 [[files]]
 file = "mods/friends-and-foes-quilt.pw.toml"
 hash = "68d56d91f82e3387fe3a53d24b88153125651bd3036a484424a24e7bd922e971"
-metafile = true
-
-[[files]]
-file = "mods/goblin-traders-fabric.pw.toml"
-hash = "8f75d499841f4637a4de310cf7017978f45aa24d7143034e58af233a5566120d"
 metafile = true
 
 [[files]]
@@ -919,11 +909,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
-metafile = true
-
-[[files]]
-file = "mods/thonkutil.pw.toml"
-hash = "d227749ef001a75ad588e4f59edf1f4a97e537458bdefb414331c31c0a437d0b"
 metafile = true
 
 [[files]]
